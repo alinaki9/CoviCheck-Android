@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="enter_name">Please enter your name.</string>
+    <string name="hint_name">Enter your name:</string>
+    <string name="submit_button">Submit</string>
+    <string name="start_service">start_service</string>
+    <string name="_fever">Do you have fever?</string>
+    <string name="_cough">Do you have cough?</string>
+    <string name="_tired">Do you feel tired?</string>
+    <string name="_pain">Do you have chest pain?</string>
+    <string name="_sore">Do you have a sore throat?</string>
+    <string name="_taste">Are you able to taste and smell?</string>
+    <string name="_heads">Do you have a headache?</string>
+    <string name="_check">Check</string>
+
+
 </resources>
